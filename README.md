@@ -796,7 +796,7 @@ premier build d'installateur.
 ### 10.1 Récupérer le projet
 
 ```powershell
-git clone <url-du-depot> PC-PS5-Sound
+git clone https://github.com/w0l6/PC-PS5-Sound PC-PS5-Sound
 cd PC-PS5-Sound
 ```
 
